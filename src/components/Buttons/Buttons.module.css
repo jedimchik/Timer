@@ -1,0 +1,27 @@
+.buttons {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.start {
+  background-color: #00ae1c;
+  color: white;
+  font-weight: 700;
+}
+
+.stop {
+  background-color: #ef9919;
+  color: white;
+  font-weight: 700;
+}
+
+.reset {
+  background-color: #099ac8;
+  color: white;
+  font-weight: 700;
+}
+
+.hidden {
+  display: none;
+}
